@@ -8,3 +8,7 @@
 /captures
 
 src/test/java/game/jeromehuang/tankmove/ExampleUnitTest.java
+
+.idea/＊
+
+.idea/compiler.xml
