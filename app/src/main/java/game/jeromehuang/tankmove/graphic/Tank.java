@@ -20,7 +20,7 @@ public class Tank {
 	public float width;
 
 	private Paint mPaint;
-	private int rotation = 0;
+	private int rotation = 110;
 
 	private int r = 25;
 	private int d = 15;
