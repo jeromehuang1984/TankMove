@@ -22,13 +22,13 @@ public class Tank {
 	private Paint mPaint;
 	private int rotation = 110;
 
-	private int r = 25;
-	private int d = 15;
-	private int l = 35;
-	private float wheelLen = 110;
-	private float wheelWidth = 15;
-	private float bodyLen = 90;
-	private float bodyWidth = 74;
+	private int r = 12;
+	private int d = 7;
+	private int l = 17;
+	private float wheelLen = 55;
+	private float wheelWidth = 8;
+	private float bodyLen = 45;
+	private float bodyWidth = 37;
 
 
 	public Tank(Paint paint) {
